@@ -1,2 +1,1 @@
-# Image_Classification_Pipeline
-http://cs231n.github.io/assignments2017/assignment1/
+Details about this assignment can be found [on the course webpage](http://cs231n.github.io/), under Assignment #1 of Spring 2017.
